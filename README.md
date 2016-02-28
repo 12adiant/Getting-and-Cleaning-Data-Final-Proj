@@ -1,6 +1,10 @@
 # Getting-and-Cleaning-Data-Final-Proj
 This readme file is included to describe the project instructions and data sources given for the project.  For a full list of variables and description of the code please refer to the codebook.md file.
 
+Code Functionality
+
+WorkSpace Cleared Raw Data Imported into Variables described above Appropriate Columns extracted from Raw Data Sets into newly created variables Initial Data Sets Created then Merged into FinData Data extracted using grepl and Dummy Column for subset Extracted Data Merged into FinData Meaningful variable names assigned to Columns using gsub for loop and dummy column Activity Type Assigned and appended to FinData TidyData.txt written to file using write.tables with comma seperated values
+
 Thank you.
 
 Michal Haseley
