@@ -1,4 +1,10 @@
 # Getting-and-Cleaning-Data-Final-Proj
+This readme file is included to describe the project instructions and data sources given for the project.  For a full list of variables and description of the code please refer to the codebook.md file.
+
+Thank you.
+
+Michal Haseley
+
 Final Project for Coursera Getting and Cleaning Data
 Instructions
 
