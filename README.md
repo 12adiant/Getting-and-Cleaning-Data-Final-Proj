@@ -9,7 +9,8 @@ Final Project for Coursera Getting and Cleaning Data
 Instructions
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
-Review criteria
+
+Review criteria:
 
 The submitted data set is tidy.
 
