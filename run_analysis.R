@@ -71,5 +71,5 @@ TidyData    <- aggregate(TblNoAct[,names(TblNoAct) != c('activityId','subjectId'
 TidyData    <- merge(TidyData,ActType,by='activityId',all.x=TRUE);
 
 #Write Tidy Data to txt file
-write.table(TidyData, './TidyData.txt',row.names=TRUE,sep=',')
+write.table(TidyData, './TidyData.txt',row.names=FALSE,sep=',')
 
